@@ -1,0 +1,39 @@
+.labels {
+    display: flex;
+    align-items: center;
+    padding: 5px 5px;
+    border: 2px dotted rgb(245, 246, 248);
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-right: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .labletext{
+    margin-right: 10px !important;
+  }
+
+  .lablevalue {
+    display: flex;
+    align-items: center;
+    padding: 5px 5px;
+    border: 2px solid rgb(245, 246, 248);
+    border-radius: 15px;
+    background-color: rgb(245, 246, 248);
+    font-size: 16px;
+    margin-right: 3px;
+  }  
+
+  .valuetext{
+    margin-right: 3px;
+  }
+
+  .btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: #e74c3c;
+  }
+  
